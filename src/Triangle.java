@@ -12,8 +12,8 @@ public class Triangle extends SimpleShape {
 	 */
 	public Triangle() {
 		super();
-		height = 30;
-		width = 40;
+		height = 67;
+		width = 32;
 	}
 
 	/**
